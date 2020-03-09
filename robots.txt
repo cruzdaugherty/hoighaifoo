@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feegooroh.mansuri.me/sitemap.xml
